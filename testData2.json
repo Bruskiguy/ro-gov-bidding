@@ -1,0 +1,29 @@
+{
+  "tipContract": "închiriere",
+  "numarCF": "150695-C1",
+  "strada": "Str. Vasile Alecsandri",
+  "numar": "10",
+  "apartament": "17/B",
+  "municipiu": "Oradea",
+  "judet": "Bihor",
+  "suprafataUtila": "34,94 mp",
+  "suprafataConstruita": "44,00 mp",
+  "dataInchiriere": "09.08.2024",
+  "oraInchiriere": "10:00",
+  "locatieInchiriere": "Primăria Municipiului Oradea – Piața Unirii nr. 1",
+  "pretPornire": "601,68 lei / lună",
+  "dataDepunereOferta": "06.08.2024",
+  "oraDepunereOferta": "11:00",
+  "locatieDepunereOferta": "Primăria municipiului Oradea, Piața Unirii nr. 1",
+  "garantieParticipare": "echivalentul a două chirii lunare",
+  "conditiiParticipare": [
+    "Garanţia de participare se pierde dacă oferta este retrasă înainte de începerea licitaţiei.",
+    "Locatorul este obligat să restituie garanţia de participare în termen de 5 zile lucrătoare de la desemnarea ofertantului câştigător.",
+    "Ofertantul câştigător pierde garanţia de participare dacă nu se prezintă pentru a încheia contractul în termenul prevăzut."
+  ],
+  "detaliiDeschidereOferte": {
+    "data": "09.08.2024",
+    "ora": "10:00",
+    "locatie": "Primăria municipiului Oradea, str. Piața Unirii nr. 1, etajul II – Cam. 201"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "tipContract": "închiriere",
+  "numarCF": "162398-C1-U5",
+  "strada": "Parcul Traian",
+  "numar": "23",
+  "apartament": "",
+  "municipiu": "Oradea",
+  "judet": "Bihor",
+  "suprafataUtila": "32,6 mp",
+  "suprafataConstruita": "43,7 mp",
+  "dataInchiriere": "09.08.2024",
+  "oraInchiriere": "09:00",
+  "locatieInchiriere": "Sala de Ședințe a Direcției Patrimoniu Imobiliar - Piața Unirii nr. 1, et. II",
+  "pretPornire": "106,31 lei/lună",
+  "dataDepunereOferta": "06.08.2024",
+  "oraDepunereOferta": "11:00",
+  "locatieDepunereOferta": "Primăria municipiului Oradea, Piața Unirii nr. 1",
+  "garantieParticipare": "212,62 lei",
+  "conditiiParticipare": [
+    "Garanția de participare se pierde dacă ofertantul își retrage oferta înainte de începerea licitației.",
+    "Garanția se restituie pentru participanții care nu au câștigat licitația, la cerere."
+  ],
+  "detaliiDeschidereOferte": {
+    "data": "09.08.2024",
+    "ora": "09:00",
+    "locatie": "Sala de Ședințe a Direcției Patrimoniu Imobiliar - Piața Unirii nr. 1, et. II"
+  },
+  "programLicitatie": {
+    "termenSolicitareClarificari": "29.07.2024",
+    "locatieSolicitareClarificari": "Primăria municipiului Oradea (Piața Unirii nr. 1) - Sala Ghișeelor (Piramidă)",
+    "termenDepunereOferte": "06.08.2024 ora 11:00",
+    "locatieDepunereOferte": "Primăria municipiului Oradea (Piața Unirii nr. 1) - Sala Ghișeelor (Piramidă)",
+    "dataLicitatie": "09.08.2024 ora 09:00",
+    "locatieLicitatie": "Sala de Ședințe a Direcției Patrimoniu Imobiliar - Piața Unirii nr. 1, et. II"
+  }
+}
