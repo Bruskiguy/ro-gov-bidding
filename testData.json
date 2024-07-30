@@ -1,36 +1,402 @@
-{
-  "tipContract": "închiriere",
-  "numarCF": "162398-C1-U5",
-  "strada": "Parcul Traian",
-  "numar": "23",
-  "apartament": "",
-  "municipiu": "Oradea",
-  "judet": "Bihor",
-  "suprafataUtila": "32,6 mp",
-  "suprafataConstruita": "43,7 mp",
-  "dataInchiriere": "09.08.2024",
-  "oraInchiriere": "09:00",
-  "locatieInchiriere": "Sala de Ședințe a Direcției Patrimoniu Imobiliar - Piața Unirii nr. 1, et. II",
-  "pretPornire": "106,31 lei/lună",
-  "dataDepunereOferta": "06.08.2024",
-  "oraDepunereOferta": "11:00",
-  "locatieDepunereOferta": "Primăria municipiului Oradea, Piața Unirii nr. 1",
-  "garantieParticipare": "212,62 lei",
-  "conditiiParticipare": [
-    "Garanția de participare se pierde dacă ofertantul își retrage oferta înainte de începerea licitației.",
-    "Garanția se restituie pentru participanții care nu au câștigat licitația, la cerere."
-  ],
-  "detaliiDeschidereOferte": {
-    "data": "09.08.2024",
-    "ora": "09:00",
-    "locatie": "Sala de Ședințe a Direcției Patrimoniu Imobiliar - Piața Unirii nr. 1, et. II"
+[
+  {
+    "tipContract": "închiriere",
+    "numarCF": "178934-C2",
+    "locatia": {
+      "strada": "Str. Mihai Eminescu",
+      "numar": "25",
+      "apartament": "3",
+      "municipiu": "Cluj-Napoca",
+      "judet": "Cluj"
+    },
+    "detaliiSpatiu": {
+      "suprafataUtila": "45,00 mp",
+      "suprafataConstruita": "55,00 mp"
+    },
+    "detaliiLicitare": {
+      "dataLicitare": "15.08.2024",
+      "oraLicitare": "11:00",
+      "locatieLicitare": "Primăria municipiului Cluj-Napoca, str. Unirii nr. 12, etajul IV",
+      "pretPornire": "800,00 lei / lună",
+      "dataDepunereOferta": "12.08.2024",
+      "oraDepunereOferta": "10:00",
+      "garantieParticipare": "echivalentul a două chirii lunare",
+      "imageUrl": "https://images.pexels.com/photos/6312359/pexels-photo-6312359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
   },
-  "programLicitatie": {
-    "termenSolicitareClarificari": "29.07.2024",
-    "locatieSolicitareClarificari": "Primăria municipiului Oradea (Piața Unirii nr. 1) - Sala Ghișeelor (Piramidă)",
-    "termenDepunereOferte": "06.08.2024 ora 11:00",
-    "locatieDepunereOferte": "Primăria municipiului Oradea (Piața Unirii nr. 1) - Sala Ghișeelor (Piramidă)",
-    "dataLicitatie": "09.08.2024 ora 09:00",
-    "locatieLicitatie": "Sala de Ședințe a Direcției Patrimoniu Imobiliar - Piața Unirii nr. 1, et. II"
+  {
+    "tipContract": "închiriere",
+    "numarCF": "194853-C1",
+    "locatia": {
+      "strada": "Str. Avram Iancu",
+      "numar": "30",
+      "apartament": "",
+      "municipiu": "Timișoara",
+      "judet": "Timiș"
+    },
+    "detaliiSpatiu": {
+      "suprafataUtila": "50,00 mp",
+      "suprafataConstruita": "60,00 mp"
+    },
+    "detaliiLicitare": {
+      "dataLicitare": "20.08.2024",
+      "oraLicitare": "10:00",
+      "locatieLicitare": "Primăria municipiului Timișoara, str. Victoriei nr. 5, etajul III",
+      "pretPornire": "950,00 lei / lună",
+      "dataDepunereOferta": "17.08.2024",
+      "oraDepunereOferta": "09:00",
+      "garantieParticipare": "echivalentul a două chirii lunare",
+      "imageUrl": "https://images.pexels.com/photos/6312359/pexels-photo-6312359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  },
+  {
+    "tipContract": "închiriere",
+    "numarCF": "210582-C3",
+    "locatia": {
+      "strada": "Str. Tudor Vladimirescu",
+      "numar": "12",
+      "apartament": "5",
+      "municipiu": "Iași",
+      "judet": "Iași"
+    },
+    "detaliiSpatiu": {
+      "suprafataUtila": "38,00 mp",
+      "suprafataConstruita": "48,00 mp"
+    },
+    "detaliiLicitare": {
+      "dataLicitare": "25.08.2024",
+      "oraLicitare": "12:00",
+      "locatieLicitare": "Primăria municipiului Iași, str. Ștefan cel Mare nr. 1, etajul II",
+      "pretPornire": "700,00 lei / lună",
+      "dataDepunereOferta": "22.08.2024",
+      "oraDepunereOferta": "11:00",
+      "garantieParticipare": "echivalentul a două chirii lunare",
+      "imageUrl": "https://images.pexels.com/photos/6312359/pexels-photo-6312359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  },
+  {
+    "tipContract": "închiriere",
+    "numarCF": "239483-C4",
+    "locatia": {
+      "strada": "Str. Nicolae Titulescu",
+      "numar": "7",
+      "apartament": "2A",
+      "municipiu": "Brașov",
+      "judet": "Brașov"
+    },
+    "detaliiSpatiu": {
+      "suprafataUtila": "29,00 mp",
+      "suprafataConstruita": "38,00 mp"
+    },
+    "detaliiLicitare": {
+      "dataLicitare": "30.08.2024",
+      "oraLicitare": "13:00",
+      "locatieLicitare": "Primăria municipiului Brașov, str. Republicii nr. 15, etajul I",
+      "pretPornire": "650,00 lei / lună",
+      "dataDepunereOferta": "27.08.2024",
+      "oraDepunereOferta": "10:00",
+      "garantieParticipare": "echivalentul a două chirii lunare",
+      "imageUrl": "https://images.pexels.com/photos/6312359/pexels-photo-6312359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  },
+  {
+    "tipContract": "închiriere",
+    "numarCF": "268942-C1",
+    "locatia": {
+      "strada": "Str. George Coșbuc",
+      "numar": "20",
+      "apartament": "4B",
+      "municipiu": "Sibiu",
+      "judet": "Sibiu"
+    },
+    "detaliiSpatiu": {
+      "suprafataUtila": "40,00 mp",
+      "suprafataConstruita": "50,00 mp"
+    },
+    "detaliiLicitare": {
+      "dataLicitare": "05.09.2024",
+      "oraLicitare": "09:00",
+      "locatieLicitare": "Primăria municipiului Sibiu, str. Mitropoliei nr. 8, etajul II",
+      "pretPornire": "720,00 lei / lună",
+      "dataDepunereOferta": "02.09.2024",
+      "oraDepunereOferta": "11:00",
+      "garantieParticipare": "echivalentul a două chirii lunare",
+      "imageUrl": "https://images.pexels.com/photos/6312359/pexels-photo-6312359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  },
+  {
+    "tipContract": "închiriere",
+    "numarCF": "291864-C2",
+    "locatia": {
+      "strada": "Str. Stefan cel Mare",
+      "numar": "18",
+      "apartament": "",
+      "municipiu": "Ploiești",
+      "judet": "Prahova"
+    },
+    "detaliiSpatiu": {
+      "suprafataUtila": "35,00 mp",
+      "suprafataConstruita": "45,00 mp"
+    },
+    "detaliiLicitare": {
+      "dataLicitare": "10.09.2024",
+      "oraLicitare": "15:00",
+      "locatieLicitare": "Primăria municipiului Ploiești, str. Republicii nr. 8, etajul I",
+      "pretPornire": "690,00 lei / lună",
+      "dataDepunereOferta": "07.09.2024",
+      "oraDepunereOferta": "12:00",
+      "garantieParticipare": "echivalentul a două chirii lunare",
+      "imageUrl": "https://images.pexels.com/photos/6312359/pexels-photo-6312359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  },
+  {
+    "tipContract": "închiriere",
+    "numarCF": "317649-C1",
+    "locatia": {
+      "strada": "Str. Emile Zola",
+      "numar": "22",
+      "apartament": "6A",
+      "municipiu": "București",
+      "judet": "București"
+    },
+    "detaliiSpatiu": {
+      "suprafataUtila": "55,00 mp",
+      "suprafataConstruita": "65,00 mp"
+    },
+    "detaliiLicitare": {
+      "dataLicitare": "15.09.2024",
+      "oraLicitare": "10:00",
+      "locatieLicitare": "Primăria municipiului București, str. Splaiul Independenței nr. 12, etajul IV",
+      "pretPornire": "1200,00 lei / lună",
+      "dataDepunereOferta": "12.09.2024",
+      "oraDepunereOferta": "14:00",
+      "garantieParticipare": "echivalentul a două chirii lunare",
+      "imageUrl": "https://images.pexels.com/photos/6312359/pexels-photo-6312359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  },
+  {
+    "tipContract": "închiriere",
+    "numarCF": "344891-C2",
+    "locatia": {
+      "strada": "Str. Henri Coandă",
+      "numar": "16",
+      "apartament": "8",
+      "municipiu": "Constanța",
+      "judet": "Constanța"
+    },
+    "detaliiSpatiu": {
+      "suprafataUtila": "28,00 mp",
+      "suprafataConstruita": "38,00 mp"
+    },
+    "detaliiLicitare": {
+      "dataLicitare": "20.09.2024",
+      "oraLicitare": "11:00",
+      "locatieLicitare": "Primăria municipiului Constanța, str. Mircea cel Bătrân nr. 14, etajul III",
+      "pretPornire": "540,00 lei / lună",
+      "dataDepunereOferta": "17.09.2024",
+      "oraDepunereOferta": "10:00",
+      "garantieParticipare": "echivalentul a două chirii lunare",
+      "imageUrl": "https://images.pexels.com/photos/6312359/pexels-photo-6312359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  },
+  {
+    "tipContract": "închiriere",
+    "numarCF": "372904-C3",
+    "locatia": {
+      "strada": "Str. Ion Creangă",
+      "numar": "4",
+      "apartament": "",
+      "municipiu": "Bacău",
+      "judet": "Bacău"
+    },
+    "detaliiSpatiu": {
+      "suprafataUtila": "42,00 mp",
+      "suprafataConstruita": "52,00 mp"
+    },
+    "detaliiLicitare": {
+      "dataLicitare": "25.09.2024",
+      "oraLicitare": "13:00",
+      "locatieLicitare": "Primăria municipiului Bacău, str. Mărășești nr. 23, etajul II",
+      "pretPornire": "800,00 lei / lună",
+      "dataDepunereOferta": "22.09.2024",
+      "oraDepunereOferta": "11:00",
+      "garantieParticipare": "echivalentul a două chirii lunare",
+      "imageUrl": "https://images.pexels.com/photos/6312359/pexels-photo-6312359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  },
+  {
+    "tipContract": "închiriere",
+    "numarCF": "398765-C4",
+    "locatia": {
+      "strada": "Str. Calea București",
+      "numar": "33",
+      "apartament": "2B",
+      "municipiu": "Galați",
+      "judet": "Galați"
+    },
+    "detaliiSpatiu": {
+      "suprafataUtila": "60,00 mp",
+      "suprafataConstruita": "70,00 mp"
+    },
+    "detaliiLicitare": {
+      "dataLicitare": "30.09.2024",
+      "oraLicitare": "14:00",
+      "locatieLicitare": "Primăria municipiului Galați, str. Traian nr. 45, etajul IV",
+      "pretPornire": "1100,00 lei / lună",
+      "dataDepunereOferta": "27.09.2024",
+      "oraDepunereOferta": "12:00",
+      "garantieParticipare": "echivalentul a două chirii lunare",
+      "imageUrl": "https://images.pexels.com/photos/6312359/pexels-photo-6312359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  },
+  {
+    "tipContract": "închiriere",
+    "numarCF": "427830-C2",
+    "locatia": {
+      "strada": "Str. Liviu Rebreanu",
+      "numar": "8",
+      "apartament": "3C",
+      "municipiu": "Pitești",
+      "judet": "Argeș"
+    },
+    "detaliiSpatiu": {
+      "suprafataUtila": "36,00 mp",
+      "suprafataConstruita": "46,00 mp"
+    },
+    "detaliiLicitare": {
+      "dataLicitare": "05.10.2024",
+      "oraLicitare": "15:00",
+      "locatieLicitare": "Primăria municipiului Pitești, str. Gheorghe Doja nr. 11, etajul II",
+      "pretPornire": "700,00 lei / lună",
+      "dataDepunereOferta": "02.10.2024",
+      "oraDepunereOferta": "10:00",
+      "garantieParticipare": "echivalentul a două chirii lunare",
+      "imageUrl": "https://images.pexels.com/photos/6312359/pexels-photo-6312359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  },
+  {
+    "tipContract": "închiriere",
+    "numarCF": "455971-C1",
+    "locatia": {
+      "strada": "Str. Grigore Alexandrescu",
+      "numar": "27",
+      "apartament": "5",
+      "municipiu": "Slatina",
+      "judet": "Olt"
+    },
+    "detaliiSpatiu": {
+      "suprafataUtila": "33,00 mp",
+      "suprafataConstruita": "43,00 mp"
+    },
+    "detaliiLicitare": {
+      "dataLicitare": "10.10.2024",
+      "oraLicitare": "10:00",
+      "locatieLicitare": "Primăria municipiului Slatina, str. Nicolae Titulescu nr. 19, etajul I",
+      "pretPornire": "620,00 lei / lună",
+      "dataDepunereOferta": "07.10.2024",
+      "oraDepunereOferta": "11:00",
+      "garantieParticipare": "echivalentul a două chirii lunare",
+      "imageUrl": "https://images.pexels.com/photos/6312359/pexels-photo-6312359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  },
+  {
+    "tipContract": "închiriere",
+    "numarCF": "485092-C2",
+    "locatia": {
+      "strada": "Str. Iuliu Maniu",
+      "numar": "9",
+      "apartament": "1A",
+      "municipiu": "Bistrița",
+      "judet": "Bistrița-Năsăud"
+    },
+    "detaliiSpatiu": {
+      "suprafataUtila": "41,00 mp",
+      "suprafataConstruita": "51,00 mp"
+    },
+    "detaliiLicitare": {
+      "dataLicitare": "15.10.2024",
+      "oraLicitare": "12:00",
+      "locatieLicitare": "Primăria municipiului Bistrița, str. Dornei nr. 3, etajul II",
+      "pretPornire": "750,00 lei / lună",
+      "dataDepunereOferta": "12.10.2024",
+      "oraDepunereOferta": "13:00",
+      "garantieParticipare": "echivalentul a două chirii lunare",
+      "imageUrl": "https://images.pexels.com/photos/6312359/pexels-photo-6312359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  },
+  {
+    "tipContract": "închiriere",
+    "numarCF": "514205-C1",
+    "locatia": {
+      "strada": "Str. Traian",
+      "numar": "14",
+      "apartament": "",
+      "municipiu": "Tulcea",
+      "judet": "Tulcea"
+    },
+    "detaliiSpatiu": {
+      "suprafataUtila": "37,00 mp",
+      "suprafataConstruita": "47,00 mp"
+    },
+    "detaliiLicitare": {
+      "dataLicitare": "20.10.2024",
+      "oraLicitare": "10:00",
+      "locatieLicitare": "Primăria municipiului Tulcea, str. Babadag nr. 22, etajul III",
+      "pretPornire": "690,00 lei / lună",
+      "dataDepunereOferta": "17.10.2024",
+      "oraDepunereOferta": "15:00",
+      "garantieParticipare": "echivalentul a două chirii lunare",
+      "imageUrl": "https://images.pexels.com/photos/6312359/pexels-photo-6312359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  },
+  {
+    "tipContract": "închiriere",
+    "numarCF": "543876-C4",
+    "locatia": {
+      "strada": "Str. Ion Luca Caragiale",
+      "numar": "31",
+      "apartament": "3A",
+      "municipiu": "Râmnicu Vâlcea",
+      "judet": "Vâlcea"
+    },
+    "detaliiSpatiu": {
+      "suprafataUtila": "48,00 mp",
+      "suprafataConstruita": "58,00 mp"
+    },
+    "detaliiLicitare": {
+      "dataLicitare": "25.10.2024",
+      "oraLicitare": "11:00",
+      "locatieLicitare": "Primăria municipiului Râmnicu Vâlcea, str. Carol I nr. 5, etajul II",
+      "pretPornire": "850,00 lei / lună",
+      "dataDepunereOferta": "22.10.2024",
+      "oraDepunereOferta": "09:00",
+      "garantieParticipare": "echivalentul a două chirii lunare",
+      "imageUrl": "https://images.pexels.com/photos/6312359/pexels-photo-6312359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  },
+  {
+    "tipContract": "închiriere",
+    "numarCF": "572390-C2",
+    "locatia": {
+      "strada": "Str. Căpitan D. D. Vancea",
+      "numar": "6",
+      "apartament": "",
+      "municipiu": "Satu Mare",
+      "judet": "Satu Mare"
+    },
+    "detaliiSpatiu": {
+      "suprafataUtila": "34,00 mp",
+      "suprafataConstruita": "44,00 mp"
+    },
+    "detaliiLicitare": {
+      "dataLicitare": "30.10.2024",
+      "oraLicitare": "09:00",
+      "locatieLicitare": "Primăria municipiului Satu Mare, str. George Coșbuc nr. 10, etajul III",
+      "pretPornire": "670,00 lei / lună",
+      "dataDepunereOferta": "27.10.2024",
+      "oraDepunereOferta": "11:00",
+      "garantieParticipare": "echivalentul a două chirii lunare",
+      "imageUrl": "https://images.pexels.com/photos/6312359/pexels-photo-6312359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
   }
-}
+]

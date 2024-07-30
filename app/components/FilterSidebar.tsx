@@ -2,10 +2,10 @@
 
 export function FilterSidebar() {
   return (
-    <div className="sticky top-0 left-0 h-screen w-64 bg-gray-200 p-4 overflow-y-auto">
-      <h3 className="text-lg font-semibold mb-4">Filters</h3>
-      <div className="mb-4">
-        <h4 className="text-md font-medium mb-2">Category</h4>
+    <div className="sticky mx-4 my-3 h-screen w-64 bg-primary  rounded-lg p-10 overflow-y-auto">
+      <h3 className="text-textDark font-semibold mb-4">Filters</h3>
+      <div className="mb-4 text-textDark">
+        <h4 className="text-md text-textDark font-medium mb-2">Category</h4>
         <ul>
           <li>
             <input type="checkbox" id="category1" />
@@ -22,7 +22,7 @@ export function FilterSidebar() {
         </ul>
       </div>
       <div className="mb-4">
-        <h3 className="text-md font-medium mb-2">Price Range</h3>
+        <h3 className="text-md text-textDark font-medium mb-2">Price Range</h3>
 
         <input type="range" min="0" max="1000" className="w-full" />
       </div>
