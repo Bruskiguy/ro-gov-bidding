@@ -1,29 +1,51 @@
-{
-  "tipContract": "închiriere",
-  "numarCF": "150695-C1",
-  "strada": "Str. Vasile Alecsandri",
-  "numar": "10",
-  "apartament": "17/B",
-  "municipiu": "Oradea",
-  "judet": "Bihor",
-  "suprafataUtila": "34,94 mp",
-  "suprafataConstruita": "44,00 mp",
-  "dataInchiriere": "09.08.2024",
-  "oraInchiriere": "10:00",
-  "locatieInchiriere": "Primăria Municipiului Oradea – Piața Unirii nr. 1",
-  "pretPornire": "601,68 lei / lună",
-  "dataDepunereOferta": "06.08.2024",
-  "oraDepunereOferta": "11:00",
-  "locatieDepunereOferta": "Primăria municipiului Oradea, Piața Unirii nr. 1",
-  "garantieParticipare": "echivalentul a două chirii lunare",
-  "conditiiParticipare": [
-    "Garanţia de participare se pierde dacă oferta este retrasă înainte de începerea licitaţiei.",
-    "Locatorul este obligat să restituie garanţia de participare în termen de 5 zile lucrătoare de la desemnarea ofertantului câştigător.",
-    "Ofertantul câştigător pierde garanţia de participare dacă nu se prezintă pentru a încheia contractul în termenul prevăzut."
-  ],
-  "detaliiDeschidereOferte": {
-    "data": "09.08.2024",
-    "ora": "10:00",
-    "locatie": "Primăria municipiului Oradea, str. Piața Unirii nr. 1, etajul II – Cam. 201"
+[
+  {
+    "tipContract": "închiriere",
+    "numarCF": "150695-C1",
+    "locatia": {
+      "strada": "Str. Vasile Alecsandri",
+      "numar": "10",
+      "apartament": "17/B",
+      "municipiu": "Oradea",
+      "judet": "Bihor"
+    },
+    "detaliiSpatiu": {
+      "suprafataUtila": "34,94 mp",
+      "suprafataConstruita": "44,00 mp"
+    },
+    "detaliiLicitare": {
+      "dataLicitare": "09.08.2024",
+      "oraLicitare": "10:00",
+      "locatieLicitare": "Primăria municipiului Oradea, str. Piața Unirii nr. 1, etajul II. Cam. 201",
+      "pretPornire": "601,68 lei / lună",
+      "dataDepunereOferta": "06.08.2024",
+      "oraDepunereOferta": "11:00",
+      "garantieParticipare": "echivalentul a două chirii lunare"
+    }
+  },
+  {
+    "tipContract": "închiriere",
+    "numarCF": "162398-C1-U5",
+    "locatia": {
+      "strada": "Parcul Traian",
+      "numar": "23",
+      "apartament": "",
+      "municipiu": "Oradea",
+      "judet": "Bihor"
+    },
+    "detaliiSpatiu": {
+      "suprafataUtila": "32,6 mp",
+      "suprafataConstruita": "43,7 mp"
+    },
+    "detaliiLicitare": {
+      "dataLicitare": "09.08.2024",
+      "oraLicitare": "09:00",
+      "locatieLicitare": "Sala de Ședințe a Direcției Patrimoniu Imobiliar - Piața Unirii nr. 1, et. II",
+      "pretPornire": "106,31 lei/lună",
+      "locatieDepunereOferte": "Primăria municipiului Oradea (Piața Unirii nr. 1) - Sala Ghișeelor (Piramidă)",
+      "dataDepunereOferta": "06.08.2024",
+      "oraDepunereOferta": "11:00",
+      "garantieParticipare": "212,62 lei"
+    }
   }
-}
+]
