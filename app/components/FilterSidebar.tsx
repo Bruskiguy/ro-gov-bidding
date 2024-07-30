@@ -3,9 +3,9 @@
 export function FilterSidebar() {
   return (
     <div className="sticky top-0 left-0 h-screen w-64 bg-gray-200 p-4 overflow-y-auto">
-      <h2 className="text-lg font-semibold mb-4">Filters</h2>
+      <h3 className="text-lg font-semibold mb-4">Filters</h3>
       <div className="mb-4">
-        <h3 className="text-md font-medium mb-2">Category</h3>
+        <h4 className="text-md font-medium mb-2">Category</h4>
         <ul>
           <li>
             <input type="checkbox" id="category1" />

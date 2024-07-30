@@ -7,9 +7,10 @@ export default function Home() {
   return (
     <div className=" min-h-screen flex flex-col">
       <Nav />
-      <FilterSidebar />
-      <Main />
-
+      <div className="flex">
+        <FilterSidebar />
+        <Main />
+      </div>
       <Footer />
     </div>
   );
