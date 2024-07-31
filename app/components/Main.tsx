@@ -6,7 +6,7 @@ type MainProps = {
 };
 export function Main(props: MainProps) {
   return (
-    <main className="flex-grow bg-background text-white p-4">
+    <main className="flex-grow bg-background-950 text-white p-4">
       {props.children}
     </main>
   );

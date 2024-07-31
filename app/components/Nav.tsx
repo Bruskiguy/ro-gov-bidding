@@ -2,7 +2,7 @@
 
 export function Nav() {
   return (
-    <nav className="bg-background border-b-2 border-primary flex items-center justify-between text-white p-4">
+    <nav className="bg-background-950 border-b-2 border-primary flex items-center justify-between text-white p-4">
       <div className="logo">Logo</div>
       <div className="flex items-center space-x-7">
         <div className="relative flex items-center">
